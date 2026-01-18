@@ -1,2 +1,2 @@
 AI agent builder
-Initial coding
+Initial coding and debugging
